@@ -1,4 +1,4 @@
-# Azure Sentinel Lab Deployment and Configuration Guide
+# Azure Sentinel Lab and SOC Honeynet Deployment and Configuration Guide
 
 This guide walks you through the complete process of setting up, configuring, and testing security incidents in Azure Sentinel using virtual machines, workbooks, and incident response. By the end of this lab, you will have a better understanding of how Azure Sentinel detects threats and how you can respond to and remediate them.
 
