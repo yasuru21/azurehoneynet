@@ -182,6 +182,4 @@ Before you begin, ensure you have:
 
 ## Conclusion
 
-You have successfully completed the Azure Sentinel lab! You now have experience in setting up key resources, configuring Sentinel, responding to incidents, and hardening your security environment. Be sure to monitor costs and return to the portal to check for any remaining charges.
-
-For further learning, consider tracking logs over 24 hours to gather more insights or explore more advanced features in Azure Sentinel.
+This project has provided valuable hands-on experience in setting up a mini honeynet in Microsoft Azure, allowing us to analyze logs and trigger alerts using Azure Sentinel. Through the results, we observed a significant decrease in reported security events after applying the necessary security controls. This highlights the critical importance of implementing effective security measures to detect, remediate, and mitigate attacks and threats within a system. The exercise has demonstrated the value of proactive security management in maintaining a robust and secure cloud environment.
